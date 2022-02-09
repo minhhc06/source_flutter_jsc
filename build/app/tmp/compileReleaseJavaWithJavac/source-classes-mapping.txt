@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/mermes/project_flutter/BuildConfig.java
+ com.mermes.project_flutter.BuildConfig
